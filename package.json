@@ -1,0 +1,22 @@
+{
+  "name": "kainure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Kainure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "mysql2": "^3.19.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/bcryptjs": "^2.4.6"
+  }
+}

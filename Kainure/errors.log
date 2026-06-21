@@ -1,0 +1,100 @@
+================================================================
+[2026-03-07 20:13:17] Unhandled Promise Rejection:
+----------------------------------------------------------------
+  Message: Error: Signature mismatch for 'OnDialogResponse'. Signature 'iiis' expects 4 args, but callback defines 5.
+  Stack Trace:
+Error: Signature mismatch for 'OnDialogResponse'. Signature 'iiis' expects 4 args, but callback defines 5.
+    at Kainure_Core.Public (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:66:19)
+    at globalThis.Public (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:104:13)
+    at file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/main.js:12:1
+    at ModuleJobSync.runSync (node:internal/modules/esm/module_job:454:37)
+    at ModuleLoader.importSyncForRequire (node:internal/modules/esm/loader:435:47)
+    at loadESMFromCJS (node:internal/modules/cjs/loader:1537:24)
+    at Module._compile (node:internal/modules/cjs/loader:1688:5)
+    at _module._compile (C:\Users\Jhonatan\Documents\gmTypeScript\samp-server.exe:12:37)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+================================================================
+
+================================================================
+[2026-03-07 20:13:17] Unhandled JavaScript Exception:
+----------------------------------------------------------------
+  File: node:internal/modules/esm/module_job (Line: 458)
+  Message: Error: Signature mismatch for 'OnDialogResponse'. Signature 'iiis' expects 4 args, but callback defines 5.
+  Stack Trace:
+Error: Signature mismatch for 'OnDialogResponse'. Signature 'iiis' expects 4 args, but callback defines 5.
+    at Kainure_Core.Public (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:66:19)
+    at globalThis.Public (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:104:13)
+    at file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/main.js:12:1
+    at ModuleJobSync.runSync (node:internal/modules/esm/module_job:454:37)
+    at ModuleLoader.importSyncForRequire (node:internal/modules/esm/loader:435:47)
+    at loadESMFromCJS (node:internal/modules/cjs/loader:1537:24)
+    at Module._compile (node:internal/modules/cjs/loader:1688:5)
+    at _module._compile (C:\Users\Jhonatan\Documents\gmTypeScript\samp-server.exe:12:37)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+================================================================
+
+================================================================
+[2026-03-07 20:14:15] Unhandled Promise Rejection:
+----------------------------------------------------------------
+  Message: Error: Access denied for user 'root'@'localhost' (using password: YES)
+  Stack Trace:
+Error: Access denied for user 'root'@'localhost' (using password: YES)
+    at PromisePool.query (C:\Users\Jhonatan\Documents\gmTypeScript\node_modules\mysql2\lib\promise\pool.js:36:22)
+    at setupDatabase (file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/data/setup.js:11:18)
+    at file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/main.js:6:11
+    at globalThis.Kainure_Emit_Event (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:173:23)
+================================================================
+
+================================================================
+[2026-03-07 20:14:15] Unhandled Promise Rejection:
+----------------------------------------------------------------
+  Message: Error: Access denied for user 'root'@'localhost' (using password: YES)
+  Stack Trace:
+Error: Access denied for user 'root'@'localhost' (using password: YES)
+    at PromisePool.query (C:\Users\Jhonatan\Documents\gmTypeScript\node_modules\mysql2\lib\promise\pool.js:36:22)
+    at setupDatabase (file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/data/setup.js:11:18)
+    at file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/main.js:6:11
+    at globalThis.Kainure_Emit_Event (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:173:23)
+================================================================
+
+================================================================
+[2026-03-07 20:16:27] Unhandled Promise Rejection:
+----------------------------------------------------------------
+  Message: Error: Access denied for user 'root'@'localhost' (using password: YES)
+  Stack Trace:
+Error: Access denied for user 'root'@'localhost' (using password: YES)
+    at PromisePool.query (C:\Users\Jhonatan\Documents\gmTypeScript\node_modules\mysql2\lib\promise\pool.js:36:22)
+    at setupDatabase (file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/data/setup.js:11:18)
+    at file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/main.js:6:11
+    at globalThis.Kainure_Emit_Event (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:173:23)
+================================================================
+
+================================================================
+[2026-03-07 20:16:27] Unhandled Promise Rejection:
+----------------------------------------------------------------
+  Message: Error: Access denied for user 'root'@'localhost' (using password: YES)
+  Stack Trace:
+Error: Access denied for user 'root'@'localhost' (using password: YES)
+    at PromisePool.query (C:\Users\Jhonatan\Documents\gmTypeScript\node_modules\mysql2\lib\promise\pool.js:36:22)
+    at setupDatabase (file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/data/setup.js:11:18)
+    at file:///C:/Users/Jhonatan/Documents/gmTypeScript/dist/Kainure/src/main.js:6:11
+    at globalThis.Kainure_Emit_Event (C:\Users\Jhonatan\Documents\gmTypeScript\Kainure\core\api.js:173:23)
+================================================================
+
+================================================================
+[2026-03-09 13:45:11] Unhandled JavaScript Exception:
+----------------------------------------------------------------
+  File: ts_compiler.js (Line: 89)
+  Message: Error: TypeScript compilation error: TypeScript compilation failed with errors:
+C:/Users/Jhonatan/Documents/gmTypeScript/Kainure/src/commands/money.ts (1,35): Relative import paths need explicit file extensions in ECMAScript imports when '--moduleResolution' is 'node16' or 'nodenext'. Did you mean '../../includes/player.js'?
+C:/Users/Jhonatan/Documents/gmTypeScript/Kainure/src/commands/money.ts (2,33): Relative import paths need explicit file extensions in ECMAScript imports when '--moduleResolution' is 'node16' or 'nodenext'. Did you mean '../../includes/money.js'?
+  Stack Trace:
+Error: TypeScript compilation error: TypeScript compilation failed with errors:
+C:/Users/Jhonatan/Documents/gmTypeScript/Kainure/src/commands/money.ts (1,35): Relative import paths need explicit file extensions in ECMAScript imports when '--moduleResolution' is 'node16' or 'nodenext'. Did you mean '../../includes/player.js'?
+C:/Users/Jhonatan/Documents/gmTypeScript/Kainure/src/commands/money.ts (2,33): Relative import paths need explicit file extensions in ECMAScript imports when '--moduleResolution' is 'node16' or 'nodenext'. Did you mean '../../includes/money.js'?
+    at ts_compiler.js:89:27
+    at ts_compiler.js:91:15
+================================================================
+

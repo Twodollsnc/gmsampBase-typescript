@@ -1,0 +1,13 @@
+{
+    "configs": {
+        "main_file": "Kainure/src/main.ts",
+        "encoding": {
+            "enabled": false,
+            "target": 65001
+        }
+    },
+    "typescript": {
+        "enabled": true,
+        "output_dir": "./dist"
+    }
+}

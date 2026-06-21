@@ -1,0 +1,627 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:14:12] filterscripts = ""  (string)
+[20:14:12] 
+[20:14:12] Server Plugins
+[20:14:12] --------------
+[20:14:12]  Loading plugin: Kainure
+[20:14:12] [Kainure]:[Info]: Starting plugin initialization...
+[20:14:12] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:14:12] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:14:12] [Kainure]:[Info]: Starting Runtime initialization...
+[20:14:12] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:14:12] [Kainure]:[Info]: Node.js process initialized.
+[20:14:12] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:14:12] [Kainure]:[Info]: Creating V8 Isolate...
+[20:14:12] [Kainure]:[Info]: V8 Isolate created.
+[20:14:12] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:14:12] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:14:12] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:14:12] [Kainure]:[Info]: Node.js Environment loaded.
+[20:14:12] [Kainure]:[Info]: Runtime initialized successfully.
+[20:14:12] [Kainure]:[Info]: Checking TypeScript installation...
+[20:14:12] [Kainure]:[Info]: TypeScript is installed.
+[20:14:12] [Kainure]:[Info]: Compiling TypeScript project...
+[20:14:14] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:14:14] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:14:14] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:14:14] [Kainure]:[Info]: Plugin loaded successfully.
+[20:14:14]   Loaded.
+[20:14:14]  Loaded 1 plugins.
+
+[20:14:14] 
+[20:14:14] Filterscripts
+[20:14:14] ---------------
+[20:14:14]   Loaded 0 filterscripts.
+
+[20:14:14] Number of vehicle models: 0
+[20:14:15] [Kainure]:[Error]: Unhandled Promise rejection. Check 'Kainure/errors.log' for details.
+[20:14:15] [Kainure]:[Error]:    > Error: Access denied for user 'root'@'localhost' (using password: YES)
+[20:14:15] [Kainure]:[Error]: Unhandled Promise rejection. Check 'Kainure/errors.log' for details.
+[20:14:15] [Kainure]:[Error]:    > Error: Access denied for user 'root'@'localhost' (using password: YES)
+[20:16:20] --- Server Shutting Down.
+[20:16:20] [Kainure]:[Info]: Unloading plugin...
+[20:16:20] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:16:23] filterscripts = ""  (string)
+[20:16:23] 
+[20:16:23] Server Plugins
+[20:16:23] --------------
+[20:16:23]  Loading plugin: Kainure
+[20:16:23] [Kainure]:[Info]: Starting plugin initialization...
+[20:16:23] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:16:23] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:16:23] [Kainure]:[Info]: Starting Runtime initialization...
+[20:16:23] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:16:23] [Kainure]:[Info]: Node.js process initialized.
+[20:16:23] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:16:23] [Kainure]:[Info]: Creating V8 Isolate...
+[20:16:23] [Kainure]:[Info]: V8 Isolate created.
+[20:16:23] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:16:23] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:16:23] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:16:23] [Kainure]:[Info]: Node.js Environment loaded.
+[20:16:23] [Kainure]:[Info]: Runtime initialized successfully.
+[20:16:23] [Kainure]:[Info]: Checking TypeScript installation...
+[20:16:23] [Kainure]:[Info]: TypeScript is installed.
+[20:16:23] [Kainure]:[Info]: Compiling TypeScript project...
+[20:16:25] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:16:25] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:16:25] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:16:25] [Kainure]:[Info]: Plugin loaded successfully.
+[20:16:25]   Loaded.
+[20:16:25]  Loaded 1 plugins.
+
+[20:16:25] 
+[20:16:25] Filterscripts
+[20:16:25] ---------------
+[20:16:25]   Loaded 0 filterscripts.
+
+[20:16:25] Number of vehicle models: 0
+[20:16:27] [Kainure]:[Error]: Unhandled Promise rejection. Check 'Kainure/errors.log' for details.
+[20:16:27] [Kainure]:[Error]:    > Error: Access denied for user 'root'@'localhost' (using password: YES)
+[20:16:27] [Kainure]:[Error]: Unhandled Promise rejection. Check 'Kainure/errors.log' for details.
+[20:16:27] [Kainure]:[Error]:    > Error: Access denied for user 'root'@'localhost' (using password: YES)
+[20:17:26] --- Server Shutting Down.
+[20:17:26] [Kainure]:[Info]: Unloading plugin...
+[20:17:26] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:17:28] filterscripts = ""  (string)
+[20:17:28] 
+[20:17:28] Server Plugins
+[20:17:28] --------------
+[20:17:28]  Loading plugin: Kainure
+[20:17:28] [Kainure]:[Info]: Starting plugin initialization...
+[20:17:28] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:17:28] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:17:28] [Kainure]:[Info]: Starting Runtime initialization...
+[20:17:28] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:17:28] [Kainure]:[Info]: Node.js process initialized.
+[20:17:28] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:17:28] [Kainure]:[Info]: Creating V8 Isolate...
+[20:17:28] [Kainure]:[Info]: V8 Isolate created.
+[20:17:28] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:17:28] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:17:28] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:17:28] [Kainure]:[Info]: Node.js Environment loaded.
+[20:17:28] [Kainure]:[Info]: Runtime initialized successfully.
+[20:17:28] [Kainure]:[Info]: Checking TypeScript installation...
+[20:17:28] [Kainure]:[Info]: TypeScript is installed.
+[20:17:28] [Kainure]:[Info]: Compiling TypeScript project...
+[20:17:30] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:17:30] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:17:30] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:17:30] [Kainure]:[Info]: Plugin loaded successfully.
+[20:17:30]   Loaded.
+[20:17:30]  Loaded 1 plugins.
+
+[20:17:30] 
+[20:17:30] Filterscripts
+[20:17:30] ---------------
+[20:17:30]   Loaded 0 filterscripts.
+
+[20:17:30] Number of vehicle models: 0
+[20:17:31] [DB]: Banco de dados verificado com sucesso.
+[20:17:31] [Kainure]: Servidor iniciado!
+[20:17:31] [DB]: Banco de dados verificado com sucesso.
+[20:17:31] [Kainure]: Servidor iniciado!
+[20:19:19] [connection] incoming connection: 127.0.0.1:54873 id: 0
+[20:19:19] [join] Jair_Bolsonaro has joined the server (0:127.0.0.1)
+[20:21:58] [part] Jair_Bolsonaro has left the server (0:1)
+[20:24:44] --- Server Shutting Down.
+[20:24:44] [Kainure]:[Info]: Unloading plugin...
+[20:24:44] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:24:52] filterscripts = ""  (string)
+[20:24:52] 
+[20:24:52] Server Plugins
+[20:24:52] --------------
+[20:24:52]  Loading plugin: Kainure
+[20:24:52] [Kainure]:[Info]: Starting plugin initialization...
+[20:24:52] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:24:52] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:24:52] [Kainure]:[Info]: Starting Runtime initialization...
+[20:24:52] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:24:52] [Kainure]:[Info]: Node.js process initialized.
+[20:24:52] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:24:52] [Kainure]:[Info]: Creating V8 Isolate...
+[20:24:52] [Kainure]:[Info]: V8 Isolate created.
+[20:24:52] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:24:52] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:24:52] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:24:52] [Kainure]:[Info]: Node.js Environment loaded.
+[20:24:52] [Kainure]:[Info]: Runtime initialized successfully.
+[20:24:52] [Kainure]:[Info]: Checking TypeScript installation...
+[20:24:52] [Kainure]:[Info]: TypeScript is installed.
+[20:24:52] [Kainure]:[Info]: Compiling TypeScript project...
+[20:24:55] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:24:55] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:24:55] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:24:55] [Kainure]:[Info]: Plugin loaded successfully.
+[20:24:55]   Loaded.
+[20:24:55]  Loaded 1 plugins.
+
+[20:24:55] 
+[20:24:55] Filterscripts
+[20:24:55] ---------------
+[20:24:55]   Loaded 0 filterscripts.
+
+[20:24:55] Number of vehicle models: 0
+[20:24:55] [DB]: Banco de dados verificado com sucesso.
+[20:24:55] [Kainure]: Servidor iniciado!
+[20:24:55] [DB]: Banco de dados verificado com sucesso.
+[20:24:55] [Kainure]: Servidor iniciado!
+[20:25:26] [connection] incoming connection: 127.0.0.1:62096 id: 0
+[20:25:26] [join] Jair_Bolsonaro has joined the server (0:127.0.0.1)
+[20:29:24] [part] Jair_Bolsonaro has left the server (0:1)
+[20:33:46] --- Server Shutting Down.
+[20:33:46] [Kainure]:[Info]: Unloading plugin...
+[20:33:46] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:34:06] filterscripts = ""  (string)
+[20:34:06] 
+[20:34:06] Server Plugins
+[20:34:06] --------------
+[20:34:06]  Loading plugin: Kainure
+[20:34:06] [Kainure]:[Info]: Starting plugin initialization...
+[20:34:06] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:34:06] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:34:06] [Kainure]:[Info]: Starting Runtime initialization...
+[20:34:06] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:34:06] [Kainure]:[Info]: Node.js process initialized.
+[20:34:06] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:34:06] [Kainure]:[Info]: Creating V8 Isolate...
+[20:34:06] [Kainure]:[Info]: V8 Isolate created.
+[20:34:06] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:34:06] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:34:06] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:34:06] [Kainure]:[Info]: Node.js Environment loaded.
+[20:34:06] [Kainure]:[Info]: Runtime initialized successfully.
+[20:34:06] [Kainure]:[Info]: Checking TypeScript installation...
+[20:34:06] [Kainure]:[Info]: TypeScript is installed.
+[20:34:06] [Kainure]:[Info]: Compiling TypeScript project...
+[20:34:08] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:34:08] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:34:08] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:34:08] [Kainure]:[Info]: Plugin loaded successfully.
+[20:34:08]   Loaded.
+[20:34:08]  Loaded 1 plugins.
+
+[20:34:08] 
+[20:34:08] Filterscripts
+[20:34:08] ---------------
+[20:34:08]   Loaded 0 filterscripts.
+
+[20:34:08] Number of vehicle models: 0
+[20:34:08] [DB]: Banco de dados verificado com sucesso.
+[20:34:08] [Kainure]: Servidor iniciado!
+[20:34:08] [DB]: Banco de dados verificado com sucesso.
+[20:34:08] [Kainure]: Servidor iniciado!
+[20:34:40] [connection] incoming connection: 127.0.0.1:50877 id: 0
+[20:34:40] [join] Jair_Bolsonaro has joined the server (0:127.0.0.1)
+[20:34:56] [part] Jair_Bolsonaro has left the server (0:1)
+[20:36:00] --- Server Shutting Down.
+[20:36:00] [Kainure]:[Info]: Unloading plugin...
+[20:36:00] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:36:04] filterscripts = ""  (string)
+[20:36:04] 
+[20:36:04] Server Plugins
+[20:36:04] --------------
+[20:36:04]  Loading plugin: Kainure
+[20:36:04] [Kainure]:[Info]: Starting plugin initialization...
+[20:36:04] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:36:04] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:36:04] [Kainure]:[Info]: Starting Runtime initialization...
+[20:36:04] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:36:04] [Kainure]:[Info]: Node.js process initialized.
+[20:36:04] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:36:04] [Kainure]:[Info]: Creating V8 Isolate...
+[20:36:04] [Kainure]:[Info]: V8 Isolate created.
+[20:36:04] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:36:04] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:36:04] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:36:04] [Kainure]:[Info]: Node.js Environment loaded.
+[20:36:04] [Kainure]:[Info]: Runtime initialized successfully.
+[20:36:04] [Kainure]:[Info]: Checking TypeScript installation...
+[20:36:04] [Kainure]:[Info]: TypeScript is installed.
+[20:36:04] [Kainure]:[Info]: Compiling TypeScript project...
+[20:36:07] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:36:07] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:36:07] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:36:07] [Kainure]:[Info]: Plugin loaded successfully.
+[20:36:07]   Loaded.
+[20:36:07]  Loaded 1 plugins.
+
+[20:36:07] 
+[20:36:07] Filterscripts
+[20:36:07] ---------------
+[20:36:07]   Loaded 0 filterscripts.
+
+[20:36:07] Number of vehicle models: 0
+[20:36:07] [DB]: Banco de dados verificado com sucesso.
+[20:36:07] [Kainure]: Servidor iniciado!
+[20:36:07] [DB]: Banco de dados verificado com sucesso.
+[20:36:07] [Kainure]: Servidor iniciado!
+[20:36:33] [connection] incoming connection: 127.0.0.1:62530 id: 0
+[20:36:34] [join] Jair_Bolsonaro has joined the server (0:127.0.0.1)
+[20:36:42] [part] Jair_Bolsonaro has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:37:28] filterscripts = ""  (string)
+[20:37:28] 
+[20:37:28] Server Plugins
+[20:37:28] --------------
+[20:37:28]  Loading plugin: Kainure
+[20:37:28] [Kainure]:[Info]: Starting plugin initialization...
+[20:37:28] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:37:28] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:37:28] [Kainure]:[Info]: Starting Runtime initialization...
+[20:37:28] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:37:28] [Kainure]:[Info]: Node.js process initialized.
+[20:37:28] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:37:28] [Kainure]:[Info]: Creating V8 Isolate...
+[20:37:28] [Kainure]:[Info]: V8 Isolate created.
+[20:37:28] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:37:28] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:37:28] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:37:28] [Kainure]:[Info]: Node.js Environment loaded.
+[20:37:28] [Kainure]:[Info]: Runtime initialized successfully.
+[20:37:28] [Kainure]:[Info]: Checking TypeScript installation...
+[20:37:28] [Kainure]:[Info]: TypeScript is installed.
+[20:37:28] [Kainure]:[Info]: Compiling TypeScript project...
+[20:37:30] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:37:30] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:37:31] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:37:31] [Kainure]:[Info]: Plugin loaded successfully.
+[20:37:31]   Loaded.
+[20:37:31]  Loaded 1 plugins.
+
+[20:37:31] 
+[20:37:31] Filterscripts
+[20:37:31] ---------------
+[20:37:31]   Loaded 0 filterscripts.
+
+[20:37:31] Number of vehicle models: 0
+[20:37:31] [DB]: Banco de dados verificado com sucesso.
+[20:37:31] [Kainure]: Servidor iniciado!
+[20:37:31] [DB]: Banco de dados verificado com sucesso.
+[20:37:31] [Kainure]: Servidor iniciado!
+[20:37:34] --- Server Shutting Down.
+[20:37:34] [Kainure]:[Info]: Unloading plugin...
+[20:37:34] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:38:07] filterscripts = ""  (string)
+[20:38:07] 
+[20:38:07] Server Plugins
+[20:38:07] --------------
+[20:38:07]  Loading plugin: Kainure
+[20:38:07] [Kainure]:[Info]: Starting plugin initialization...
+[20:38:07] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:38:07] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:38:07] [Kainure]:[Info]: Starting Runtime initialization...
+[20:38:07] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:38:07] [Kainure]:[Info]: Node.js process initialized.
+[20:38:07] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:38:07] [Kainure]:[Info]: Creating V8 Isolate...
+[20:38:07] [Kainure]:[Info]: V8 Isolate created.
+[20:38:07] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:38:07] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:38:07] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:38:07] [Kainure]:[Info]: Node.js Environment loaded.
+[20:38:07] [Kainure]:[Info]: Runtime initialized successfully.
+[20:38:07] [Kainure]:[Info]: Checking TypeScript installation...
+[20:38:07] [Kainure]:[Info]: TypeScript is installed.
+[20:38:07] [Kainure]:[Info]: Compiling TypeScript project...
+[20:38:09] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:38:09] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:38:10] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:38:10] [Kainure]:[Info]: Plugin loaded successfully.
+[20:38:10]   Loaded.
+[20:38:10]  Loaded 1 plugins.
+
+[20:38:10] 
+[20:38:10] Filterscripts
+[20:38:10] ---------------
+[20:38:10]   Loaded 0 filterscripts.
+
+[20:38:10] Number of vehicle models: 0
+[20:38:10] [DB]: Banco de dados verificado com sucesso.
+[20:38:10] [Kainure]: Servidor iniciado!
+[20:38:10] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[20:38:10] [DB]: Banco de dados verificado com sucesso.
+[20:38:10] [Kainure]: Servidor iniciado!
+[20:38:10] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[20:38:58] [connection] incoming connection: 127.0.0.1:53058 id: 0
+[20:38:58] [join] Jair_Bolsonaro has joined the server (0:127.0.0.1)
+[20:39:22] [part] Jair_Bolsonaro has left the server (0:1)
+[20:39:25] --- Server Shutting Down.
+[20:39:25] [Kainure]:[Info]: Unloading plugin...
+[20:39:25] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:42:13] filterscripts = ""  (string)
+[20:42:13] 
+[20:42:13] Server Plugins
+[20:42:13] --------------
+[20:42:13]  Loading plugin: Kainure
+[20:42:13] [Kainure]:[Info]: Starting plugin initialization...
+[20:42:13] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:42:13] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:42:13] [Kainure]:[Info]: Starting Runtime initialization...
+[20:42:13] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:42:13] [Kainure]:[Info]: Node.js process initialized.
+[20:42:13] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:42:13] [Kainure]:[Info]: Creating V8 Isolate...
+[20:42:13] [Kainure]:[Info]: V8 Isolate created.
+[20:42:13] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:42:13] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:42:13] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:42:13] [Kainure]:[Info]: Node.js Environment loaded.
+[20:42:13] [Kainure]:[Info]: Runtime initialized successfully.
+[20:42:13] [Kainure]:[Info]: Checking TypeScript installation...
+[20:42:13] [Kainure]:[Info]: TypeScript is installed.
+[20:42:13] [Kainure]:[Info]: Compiling TypeScript project...
+[20:42:15] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:42:15] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:42:16] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:42:16] [Kainure]:[Info]: Plugin loaded successfully.
+[20:42:16]   Loaded.
+[20:42:16]  Loaded 1 plugins.
+
+[20:42:16] 
+[20:42:16] Filterscripts
+[20:42:16] ---------------
+[20:42:16]   Loaded 0 filterscripts.
+
+[20:42:16] Number of vehicle models: 0
+[20:42:16] [DB]: Banco de dados verificado com sucesso.
+[20:42:16] [Kainure]: Servidor iniciado!
+[20:42:16] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[20:42:16] [DB]: Banco de dados verificado com sucesso.
+[20:42:16] [Kainure]: Servidor iniciado!
+[20:42:16] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[20:42:41] [connection] incoming connection: 127.0.0.1:51519 id: 0
+[20:42:42] [join] Jair_Bolsonaro has joined the server (0:127.0.0.1)
+[20:42:57] [part] Jair_Bolsonaro has left the server (0:1)
+[20:42:59] --- Server Shutting Down.
+[20:42:59] [Kainure]:[Info]: Unloading plugin...
+[20:42:59] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:45:03] filterscripts = ""  (string)
+[13:45:03] 
+[13:45:03] Server Plugins
+[13:45:03] --------------
+[13:45:03]  Loading plugin: Kainure
+[13:45:03] [Kainure]:[Info]: Starting plugin initialization...
+[13:45:03] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[13:45:03] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[13:45:03] [Kainure]:[Info]: Starting Runtime initialization...
+[13:45:03] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[13:45:03] [Kainure]:[Info]: Node.js process initialized.
+[13:45:03] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[13:45:03] [Kainure]:[Info]: Creating V8 Isolate...
+[13:45:03] [Kainure]:[Info]: V8 Isolate created.
+[13:45:03] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[13:45:03] [Kainure]:[Info]: Node.js Context and Environment created.
+[13:45:03] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[13:45:03] [Kainure]:[Info]: Node.js Environment loaded.
+[13:45:03] [Kainure]:[Info]: Runtime initialized successfully.
+[13:45:03] [Kainure]:[Info]: Checking TypeScript installation...
+[13:45:03] [Kainure]:[Info]: TypeScript is installed.
+[13:45:03] [Kainure]:[Info]: Compiling TypeScript project...
+[13:45:11] [Kainure]:[Error]: Unhandled JavaScript exception. Check 'Kainure/errors.log' for details.
+[13:45:11] [Kainure]:[Error]:    > Error: TypeScript compilation error: TypeScript compilation failed with errors:
+C:/Users/Jhonatan/Documents/gmTypeScript/Kainure/src/commands/money.ts (1,35): Relative import paths need explicit file extensions in ECMAScript imports when '--moduleResolution' is 'node16' or 'nodenext'. Did you mean '../../includes/player.js'?
+C:/Users/Jhonatan/Documents/gmTypeScript/Kainure/src/commands/money.ts (2,33): Relative import paths need explicit file extensions in ECMAScript imports when '--moduleResolution' is 'node16' or 'nodenext'. Did you mean '../../includes/money.js'?
+[13:45:11] [Kainure]:[Error]: '[TypeScript_Exception] TypeScript compilation failed.'.
+[13:45:11] [Kainure]:[Error]: TypeScript compilation failed.
+[13:45:11] [Kainure]:[Error]: Failed to execute bootstrap scripts.
+[13:45:11] [Kainure]:[Error]: If the bootstrap fails because the module cannot be found, the server will crash shortly afterward. Fix the issue.
+[13:45:11] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:47:01] filterscripts = ""  (string)
+[13:47:01] 
+[13:47:01] Server Plugins
+[13:47:01] --------------
+[13:47:01]  Loading plugin: Kainure
+[13:47:01] [Kainure]:[Info]: Starting plugin initialization...
+[13:47:01] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[13:47:01] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[13:47:01] [Kainure]:[Info]: Starting Runtime initialization...
+[13:47:01] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[13:47:01] [Kainure]:[Info]: Node.js process initialized.
+[13:47:01] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[13:47:01] [Kainure]:[Info]: Creating V8 Isolate...
+[13:47:01] [Kainure]:[Info]: V8 Isolate created.
+[13:47:01] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[13:47:01] [Kainure]:[Info]: Node.js Context and Environment created.
+[13:47:01] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[13:47:01] [Kainure]:[Info]: Node.js Environment loaded.
+[13:47:01] [Kainure]:[Info]: Runtime initialized successfully.
+[13:47:01] [Kainure]:[Info]: Checking TypeScript installation...
+[13:47:01] [Kainure]:[Info]: TypeScript is installed.
+[13:47:01] [Kainure]:[Info]: Compiling TypeScript project...
+[13:47:03] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[13:47:03] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[13:47:08] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[13:47:08] [Kainure]:[Info]: Plugin loaded successfully.
+[13:47:08]   Loaded.
+[13:47:08]  Loaded 1 plugins.
+
+[13:47:08] 
+[13:47:08] Filterscripts
+[13:47:08] ---------------
+[13:47:08]   Loaded 0 filterscripts.
+
+[13:47:08] Number of vehicle models: 0
+[13:47:09] [DB]: Banco de dados verificado com sucesso.
+[13:47:09] [Kainure]: Servidor iniciado!
+[13:47:09] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[13:47:09] [DB]: Banco de dados verificado com sucesso.
+[13:47:09] [Kainure]: Servidor iniciado!
+[13:47:09] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[13:47:50] [connection] incoming connection: 127.0.0.1:60870 id: 0
+[13:47:50] [join] Jair_Bolsonaro has joined the server (0:127.0.0.1)
+[13:52:30] [part] Jair_Bolsonaro has left the server (0:1)
+[13:52:33] --- Server Shutting Down.
+[13:52:33] [Kainure]:[Info]: Unloading plugin...
+[13:52:33] [Kainure]:[Info]: Shutting down Runtime...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:21:49] filterscripts = ""  (string)
+[20:21:49] 
+[20:21:49] Server Plugins
+[20:21:49] --------------
+[20:21:49]  Loading plugin: Kainure
+[20:21:49] [Kainure]:[Info]: Starting plugin initialization...
+[20:21:49] [Kainure]:[Error]: '[File_Exception] Failed to parse 'tsconfig.json': [json.exception.parse_error.101] parse error at line 12, column 3: syntax error while parsing object key - unexpected '}'; expected string literal'.
+[20:21:49] [Kainure]:[Info]: Encoding conversion disabled. Using UTF-8 passthrough.
+[20:21:49] [Kainure]:[Info]: Starting Runtime initialization...
+[20:21:49] [Kainure]:[Info]: Initializing Node.js process and V8 platform...
+[20:21:49] [Kainure]:[Info]: Node.js process initialized.
+[20:21:49] [Kainure]:[Info]: V8 Platform and libuv initialized.
+[20:21:49] [Kainure]:[Info]: Creating V8 Isolate...
+[20:21:49] [Kainure]:[Info]: V8 Isolate created.
+[20:21:49] [Kainure]:[Info]: Creating Node.js Context and Environment...
+[20:21:49] [Kainure]:[Info]: Node.js Context and Environment created.
+[20:21:49] [Kainure]:[Info]: Loading Node.js Environment (bootstrap)...
+[20:21:49] [Kainure]:[Info]: Node.js Environment loaded.
+[20:21:49] [Kainure]:[Info]: Runtime initialized successfully.
+[20:21:49] [Kainure]:[Info]: Checking TypeScript installation...
+[20:21:49] [Kainure]:[Info]: TypeScript is installed.
+[20:21:49] [Kainure]:[Info]: Compiling TypeScript project...
+[20:21:57] [Kainure]:[Info]: TypeScript compilation completed successfully.
+[20:21:57] [Kainure]:[Info]: Loading compiled JavaScript from: './dist/Kainure/src/main.js'.
+[20:22:00] [Kainure]:[Info]: Bootstrap scripts loaded successfully.
+[20:22:00] [Kainure]:[Info]: Plugin loaded successfully.
+[20:22:00]   Loaded.
+[20:22:00]  Loaded 1 plugins.
+
+[20:22:00] 
+[20:22:00] Filterscripts
+[20:22:00] ---------------
+[20:22:00]   Loaded 0 filterscripts.
+
+[20:22:00] Number of vehicle models: 0
+[20:22:01] [DB]: Banco de dados verificado com sucesso.
+[20:22:01] [Kainure]: Servidor iniciado!
+[20:22:01] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[20:22:01] [DB]: Banco de dados verificado com sucesso.
+[20:22:01] [Kainure]: Servidor iniciado!
+[20:22:01] cdnakncbacvhsdcbjadshucbmskabcjidsbmc dkcjkdsnfm,ndsjabckmdsnckldshkjcbdsknckdsbjdsbackdasjkcbd
+[20:22:36] --- Server Shutting Down.
+[20:22:37] [Kainure]:[Info]: Unloading plugin...
+[20:22:37] [Kainure]:[Info]: Shutting down Runtime...
