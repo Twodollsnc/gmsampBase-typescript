@@ -4,7 +4,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-16+-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8+-blue)
-![Status](https://img.shields.io/badge/Status-Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ---
 
