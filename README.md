@@ -14,7 +14,6 @@ Esta é uma gamemode inovadora para **SA-MP 0.3.7** que utiliza o plugin **Kainu
 
 O projeto conta com:
 
-- Integração nativa com Node.js via plugin C++
 - Sistema de banco de dados robusto com MySQL
 - Criptografia de senhas com BCrypt
 - Comandos e eventos processados em TypeScript
